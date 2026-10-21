@@ -8,7 +8,7 @@ Build a repeatable reporting process using published UK Government Major Project
 
 This independent portfolio project develops skills relevant to planning and performance analysis: combining sources, checking data quality, defining consistent measures, building reports and documenting decisions.
 
-It uses public government data and does not use internal Co-op data. It is not affiliated with or endorsed by Co-op or the UK Government.
+It uses public government data. It is not affiliated with the UK Government.
 
 ## Initial scope
 
